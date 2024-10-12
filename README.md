@@ -12,8 +12,8 @@
 
 - 🌱 *I’m currently learning* **Data Analyst & Web Development**
 - 💬 *Ask me about* **Python ,SQL , web Development,Designing or Anything**
-- 📫 *How to reach me* **raynulazadniloy@gmail.com**
-- ⚡ *About Me:* <br>
+- 📫 How to reach me<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raynulazadniloy)</p> 
+- ⚡ About Me: <br>
 - 💎 **Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty** <br>
 - 🌎 *I Know* **English,Bangla ,Hindi**. <br>
 - 📍 *Location:** **Bangladesh** <br>
