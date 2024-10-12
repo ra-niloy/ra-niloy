@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm RAYNUL AZAD NILOY</h1>
+<h1 align="center">Hi 👋, I'm RAYNUL AZAD NILOY</h1><img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+
 <h3 align="center">Contributor @GSSoc'24 || Campus Ambassador @SSDC || Campus Ambassador @IOB || Aspiring Data Analyst & Web Developer</h3>
 
 - 🌱 I’m currently learning **Data Analyst & Web Development**
