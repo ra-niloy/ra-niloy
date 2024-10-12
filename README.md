@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm RAYNUL AZAD NILOY<img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/raynulazadniloy/">RAYNUL AZAD NILOY </a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+
 
 <h3 align="center">Contributor @GSSoc'24 || Campus Ambassador @SSDC || Campus Ambassador @IOB || Aspiring Data Analyst & Web Developer</h3>
 
-- 🌱 I’m currently learning **Data Analyst & Web Development**
+- 🌱 *I’m currently learning* **Data Analyst & Web Development**
+- 💬 *Ask me about* **Python ,SQL , web Development,Designing or Anything**
+- 📫 *How to reach me* **raynulazadniloy@gmail.com**
+- ⚡ *About Me:* <br>
+- 💎 **Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty** <br>
+- 🌎 *I Know* **English,Bangla ,Hindi**. <br>
+- 📍 *Location:** **Bangladesh** <br>
 
-- 💬 Ask me about **Python ,SQL , web Development,Designing or Anything**
-
-- 📫 How to reach me **raynulazadniloy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
