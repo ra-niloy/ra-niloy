@@ -30,5 +30,5 @@
 <br>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ra-niloy&show_icons=true&locale=en" alt="ra-niloy" /></p>
-<h3 align="center">Support:</h3>
+<h3 align="center">Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/rainulazadniloy"> <img center="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rainulazadniloy" /></a></p><br><br>
