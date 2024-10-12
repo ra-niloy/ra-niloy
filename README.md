@@ -1,4 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=ra-niloy&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=CONTRIBUTOR%20GIRLSCRIPT%20SUMMER%20OF%20CODE%202024;CAMPUS%20AMBASSADOR%20SSDC%20BANGLADESH;CAMPUS%20AMBASSADOR%20ICT%20OLYMPIAD%20BANGLADESH;ASPIRING%20DATA%20ANALYST%20%26%20WEB%20DEVELOPER&font=Fira%20Code&center=true&width=700&height=45&color=FF0000&vCenter=true&pause=1000&size=25" />
+</p>
+
 <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/raynulazadniloy/">RAYNUL AZAD NILOY </a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
