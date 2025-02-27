@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 
-<h3 align="center">Contributor @GSSoc'24 || Campus Ambassador @SSDC || Campus Ambassador @IOB || Aspiring Data Analyst & Web Developer</h3>
+<h3 align="center">@GSSoc'24 || Campus Ambassador @SSDC || Campus Ambassador @IOB || Aspiring Data Analyst & Web Developer</h3>
 
 - 🌱 *I’m currently learning* **Data Analyst & Web Development**
 - 💬 *Ask me about* **Python ,SQL , web Development,Designing or Anything**
