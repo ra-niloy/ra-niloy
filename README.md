@@ -16,7 +16,7 @@
 - ⚡ About Me: <br>
 - 💎 **Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty** <br>
 - 🌎 *I Know* **English,Bangla ,Hindi**<br>
-- 📍 *Location:**Bangladesh** <br>
+- 📍 *Location:**Bangladesh**. <br>
 
 
 <h3 align="left">Connect with me:</h3>
