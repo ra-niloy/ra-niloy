@@ -15,7 +15,7 @@
 - 📫 How to reach me<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raynulazadniloy)</p> 
 - ⚡ About Me: <br>
 - 💎 **Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty** <br>
-- 🌎 *I Know* **English,Bangla ,Hindi**. <br>
+- 🌎 *I Know* **English,Bangla ,Hindi**<br>
 - 📍 *Location:**Bangladesh** <br>
 
 
